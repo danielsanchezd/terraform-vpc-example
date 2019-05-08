@@ -2,4 +2,5 @@
 vars/*
 .terraform/*
 plan
+plan.out
 *.tfstate
